@@ -1,0 +1,17 @@
+.spacer {
+  height: 25vh;
+}
+button {
+  margin-top: 28%;
+}
+#animated-div {
+  height: 50vh;
+  width: 100%;
+  background-color: #9ae7e4;
+}
+#image {
+  background-color: tomato;
+}
+.hidden {
+  display: none;
+}

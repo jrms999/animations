@@ -1,0 +1,20 @@
+body {
+  background-color: grey;
+}
+.box {
+  height: 150px;
+  width: 150px;
+  background-color: red;
+}
+#box2 {
+  background-color: rgb(215,0,0);
+}
+#box3 {
+  background-color: rgb(175,0,0);
+}
+#box4 {
+  background-color: rgb(135,0,0);
+}
+#box5 {
+  background-color: rgb(95,0,0);
+}

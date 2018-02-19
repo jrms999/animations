@@ -9,5 +9,5 @@ $("button").hover(function() {
   $("#animated-div").addClass("animated fadeOutRight");
   setTimeout(function() {
     $("#animated-div").removeClass("animated fadeOutRight").addClass("hidden");
-  }, 1000);
+  }, 300);
 })
